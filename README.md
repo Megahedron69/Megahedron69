@@ -181,16 +181,22 @@
     alt="streak graph"
   />
   <img
-    src="https://github-contributor-stats-one-rho-10.vercel.app/api?username=Megahedron69&limit=3&theme=shades-of-purple&combine_all_yearly_contributions=true&hide_border=true&border_radius=10&cache_seconds=2592000"
+    src="https://github-readme-stats-one-rho-10.vercel.app/api??username=Megahedron69&limit=3&theme=shades-of-purple&combine_all_yearly_contributions=true&hide_border=true&border_radius=10&cache_seconds=2592000"
     height="170"
     alt="top repos"
   />
 </div>
 
 <br>
+
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="dev quote" height="170" />
+  <img
+    src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"
+    width="700"
+    alt="dev quote"
+  />
 </div>
+
 
 ###
 <br>
