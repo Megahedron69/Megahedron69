@@ -5,8 +5,16 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Megahedron69&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=jolly&locale=en&hide_border=true&order=1" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Megahedron69&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=shades-of-purple&hide_border=true&order=2" height="180" alt="languages graph"  />
+  <img
+    src="https://github-readme-stats-one-rho-10.vercel.app/api?username=Megahedron69&hide_title=true&hide_rank=true&show_icons=true&include_all_commits=true&count_private=true&theme=jolly&hide_border=true&cache_seconds=86400"
+    height="180"
+    alt="stats graph"
+  />
+  <img
+    src="https://github-readme-stats-one-rho-10.vercel.app/api/top-langs?username=Megahedron69&layout=compact&card_width=320&langs_count=6&theme=shades-of-purple&hide_border=true&cache_seconds=2592000"
+    height="180"
+    alt="languages graph"
+  />
 </div>
 
 ###
@@ -167,8 +175,16 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Megahedron69&locale=en&mode=weekly&theme=jolly&hide_border=true&border_radius=10&order=3" height="170" alt="streak graph" />
-  <img src="https://github-contributor-stats.vercel.app/api?username=Megahedron69&limit=3&theme=shades-of-purple&combine_all_yearly_contributions=true&hide_border=true&border_radius=10" height="170" alt="top repos" />
+  <img
+    src="https://github-readme-streak-stats-3umm.vercel.app?user=Megahedron69&mode=weekly&theme=jolly&hide_border=true&border_radius=10&cache_seconds=86400"
+    height="170"
+    alt="streak graph"
+  />
+  <img
+    src="https://github-contributor-stats-one-rho-10.vercel.app/api?username=Megahedron69&limit=3&theme=shades-of-purple&combine_all_yearly_contributions=true&hide_border=true&border_radius=10&cache_seconds=2592000"
+    height="170"
+    alt="top repos"
+  />
 </div>
 
 <br>
